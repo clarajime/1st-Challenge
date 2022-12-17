@@ -17,10 +17,10 @@ Now the website meet accessibility standards because has:
 
 # URLS
 ## Github Repo
-* https://github.com/clarajime/Challenge1
+* https://github.com/clarajime/1st-Challenge.git
 
 ## Live URL
-* https://clarajime.github.io/Challenge1/
+* https://clarajime.github.io/1st-Challenge/#search-engine-optimization
 
 
 
